@@ -1,0 +1,41 @@
+
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    
+  }
+  .navbar navbar-expand-lg{
+    background-color: rgb(238, 175, 157);
+  }
+  .collapse a:hover{
+    color:#ff9900;
+
+  }
+  #navlink ul li a{
+    text-decoration: none;
+   padding: 10px;
+   transition: color 0.3s;
+   color: white;
+  transition: 0.3s;
+  }
+  #navlink{
+    list-style: none;
+    margin-left: 500px;
+    display: flex;
+    justify-content: space-between;
+    gap:15px;
+  }
+  #navlink a:hover{
+ color: #ffcc00;
+  }
+ 
+  img{
+display: flex;
+width: 100px;
+height: 100px;
+border-radius: 50px;
+margin-left: 0px;
+  }
+  
